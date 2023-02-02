@@ -7,9 +7,9 @@
 <h1 align="center">Hola 👋, Soy Jean Carlo Játiva Quinde</h1>
 <h3 align="center">Un desarrollador Front-end de Ambato Ecuador</h3>
 
-- 🔭 Actualmente me encuentro estudiando la carrera de Ingeniería de Software **En la Universidad Técnica de Ambato**
+- 🔭 Me encuentro estudiando la carrera de Ingeniería de Software **En la Universidad Técnica de Ambato**
 
-- 🌱 Actualmente me encuentro aprendiendo acerca de desarrollo Front-end y la experiencia del Usuario **Dentro de CSS, HTML, Desarrollo Web**
+- 🌱 Actualmente estoy aprendiendo acerca de desarrollo Front-end y la experiencia del Usuario **Dentro de CSS, HTML, Desarrollo Web**
 
 - 👨‍💻 Varios de mis proyectos se encuentran disponibles en: [https://jeanjativa.000webhostapp.com/](https://jeanjativa.000webhostapp.com/)
 
