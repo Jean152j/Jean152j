@@ -21,10 +21,10 @@
 
 <h3 align="left">Me puedes contactar:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jean játiva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jean játiva" height="30" width="40" /></a>
-<a href="https://fb.com/jeanquendo gameplays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jeanquendo gameplays" height="30" width="40" /></a>
-<a href="https://instagram.com/jean152j" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jean152j" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/jeanquendo gameplays" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jeanquendo gameplays" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jean-j%C3%A1tiva-34a636254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jean játiva" height="30" width="40" /></a>
+<a href="https://www.facebook.com/jeanquendogameplays/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jeanquendo gameplays" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jean152j/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jean152j" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/jeanquendo gameplays](https://www.youtube.com/@JeanquendoGameplays)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jeanquendo gameplays" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
