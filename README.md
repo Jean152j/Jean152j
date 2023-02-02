@@ -1,4 +1,5 @@
-![af9e3db9edc095f6f941473def765b13](https://user-images.githubusercontent.com/74079643/216456642-2dbf0d28-06b0-445e-85fb-94763bda5248.gif)
+![5501609ee45d514d1f2c4a63502045e2](https://user-images.githubusercontent.com/74079643/216456818-ecf9de2a-a3c1-4c56-93ee-3e9433f4f720.gif)
+
 
 <h1 align="center">Hola 👋, Soy Jean Carlo Játiva Quinde</h1>
 <h3 align="center">Un desarrollador Front-end de Ambato Ecuador</h3>
