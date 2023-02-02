@@ -1,4 +1,5 @@
-![5501609ee45d514d1f2c4a63502045e2](https://user-images.githubusercontent.com/74079643/216456818-ecf9de2a-a3c1-4c56-93ee-3e9433f4f720.gif)
+![gifs-de-tecnologia-2](https://user-images.githubusercontent.com/74079643/216457556-22f2aca3-815e-45fd-b16d-393a783cddee.gif)
+
 
 
 <h1 align="center">Hola 👋, Soy Jean Carlo Játiva Quinde</h1>
