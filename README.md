@@ -1,4 +1,5 @@
-![gifs-de-tecnologia-2](https://user-images.githubusercontent.com/74079643/216457556-22f2aca3-815e-45fd-b16d-393a783cddee.gif)
+![EKs2](https://user-images.githubusercontent.com/74079643/216457882-ade0a50c-3dea-4f58-b234-31033f4ae774.gif)
+
 
 
 
